@@ -25,7 +25,7 @@ This project is a full-stack web application that demonstrates basic CRUD (Creat
 
 #### 1. Clone the Repository
 ```sh
-git clone https://github.com/Arghyarc757/Simple-Contact-Webapp.git
+git clone https://github.com/Arghyarc757/CRUD-WebApplication.git
 cd CRUDBasic
 ```
 
